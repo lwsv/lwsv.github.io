@@ -1,0 +1,17 @@
+{
+    "name":"lrs工作室网站",
+    "short_name":"lrs工作室网站",
+    "icons": [
+      {
+        "src":"/logo.png",
+        "type":"image/png",
+        "sizes":"512x512",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "/?from=webapp",
+    "prefer_related_applications": false,
+    "display":"standalone",
+    "background_color":"#ffffff",
+    "theme_color":"#ffffff"
+  }

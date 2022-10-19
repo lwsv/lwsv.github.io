@@ -1,6 +1,6 @@
 {
-    "name":"lrs工作室网站",
-    "short_name":"lrs工作室网站",
+    "name":"lw录屏官方网站",
+    "short_name":"lw录屏官方网站",
     "icons": [
       {
         "src":"/logo.png",
@@ -9,7 +9,7 @@
         "purpose": "any maskable"
       }
     ],
-    "start_url": "/?from=webapp",
+    "start_url": "/",
     "prefer_related_applications": false,
     "display":"standalone",
     "background_color":"#ffffff",
